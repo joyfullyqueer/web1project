@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		.column {
+			float: left;
+			width: 50%;
+			padding: 10px;
+			box-sizing: border-box;
+		}
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+	</style>
+</head>
+<body style="background-color:purple;">
+<h1><u><b>first</b></u></h1>
+<p>  </p>
+</body>
+</html>
