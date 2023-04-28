@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		.column {
+			float: left;
+			width: 50%;
+			padding: 10px;
+			box-sizing: border-box;
+		}
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+	</style>
+	<style>
+		.justify {text-align: justify;}
+	</style>
+	<style>
+		.right-align{text-align: right;}
+	</style>
+	<style>
+      	#vertical-line {
+        border-left: 1px solid black;
+        height: 100%;
+        position: absolute;
+        left: 50%;
+        margin-left: -1px;
+      }
+    </style>
+	<title> a new web 1.0 </title>
+</head>
+
+<body style="background-color:#ae1818;">
+<img src="gender screenshot for website.png">
+<div id="vertical-line"></div>
+
+<div class="row">
+	<div class="column">
+	<h1><u><b>first (theirs)</b></u></h1>
+	<p class="justify">the internet nowadays is so full of thirst traps, porn, etc that gives me a very unrealistic perception of what sex and romance are supposed to be. i aspire to an ideal i have formed in my mind, subconsciously, and the experiences i have in my life thus feel lackluster, even though ive spent so much time being single and yearning for the slightest bit of intimacy with someone else. i hate myself for setting such high standards for myself and for my experiences and for my partner, and i feel so guilty when they can feel that im not fully satisfied with whatever we're doing, be it sex or cuddling or watching a movie or just going for a walk on the street or having a conversation.</p>
+
+<p class="justify">and even outside this area of my life, i cant seem to find one thing i do that im satisfied with. i hate the way i look, and everyone tells me i shouldnt, that i look good, that im not that fat, that my face is fine, but i still cant bring myself to believe them, and neither can i bring myself to try and change something about myself. i dont have the energy to diet or to use more and more skincare products or to shave my entire body and its so awful sitting there knowing you could be happier if you just had the energy to change, but you dont, you dont even have the energy to make a psychiatrist appointment to maybe get back on the meds that made you feel like you didnt need to sleep 24/7. i dont even think the meds helped though, they helped with my fatigue but i didnt really feel happy per se.</p>
+<p class="justify">im so scared that ill never be happy. im scared that ill end up never losing weight and never stopping my skin from breaking out and never having friends or a partner and never doing the things i want so desperately to do but im too scared and too devoid of energy to ask or to pursue.</p>
+<p class="justify">i blame it on college, on the immense amount of material i have to memorize, but when it comes down to it, i dont spend a lot of time studying. although i should. people better eat their apple a day cuz their future doctors are having panic attacks over having to study more than half a page per day</p>
+
+<p class="justify">i feel like i cant do anything and i try to reach out and ask for help but i feel like noone cares enough about me to help. ive only been with my partner for a short while, and i dont want to dump this all on them, and i feel like they dont really like me all that much; my best friend is either busy with their boyfriend, or their best friend (which isnt me), or they have too much on their own plate and i dont want to add onto that; and i dont have the money nor the time to go to a therapist regularly.</p>
+<div id="vertical-line"></div>
+
+<p class="justify">im so jealous of my friends from college. they can study so easily. they're so smart. i seem smart too, and i suppose i am, but not in the way this uni wants me to be. im smart because i have logical thinking, but memory wise, im absolutely shit. and its soul crushing to see yourself falling behind when before you never needed to study for any tests because everything came to you naturally and you were the smart kid in the class.</p>
+<div id="vertical-line"></div>
+<p class="justify">i realize this isnt exactly what the prompt asked for but. oh well. sorry. ill still go on talking about this, its weirdly therapeutic.</p>
+
+<p class="justify">im so jealous of everyone who has a better life than me. this one guy from uni for example. i dont talk to him much, except when he sold me some offbrand adderall pills, which didnt even work, he's so smart, and extroverted, and sure his demeanor may be annoying sometimes cuz he talks to everyone and is always very energetic but i wish i could have at least half his energy. and he always has time to go out and go to raves and have fun and go to the gym while also being insanely smart and i dont know how he does it, im just insanely jealous of him. i hate that about myself. that i cant be happy with what i have. but how could i be happy with what i have if every time i open instagram i see him posting new stories, and its always something that for most might seem mundane but for me its so adventurous and desirable; like today he posted a story of him being in an abandoned building and it was so. bad. knowing that im stuck at home with my shitty parents because i cant even be at my dorm room right now and hes having fun and can also study and be pretty much perfect while i gotta force myself for two hours every day to get out of bed.</p>
+<p class="justify">gashgirl's writing is so amazing. it's the exact pinnacle of how i feel seeing others do awesome(?) and dangerous stuff. on one hand its jealousy, a yearning for that same experience, and on the other hand its fear, for the innate danger of drugs and needles and all that shit. i wish i could have what people ive met had.</p>
+
+
+
+<div id="vertical-line"></div>
+<h1><u><b>second (theirs)</b></u></h1>
+<p class="justify">I've buried this story for a lot of time, but I guess this is the time it wasto be let out. It is a story mostly about contradiction. About wanting something whilst simultaneously doing everything you can to avoid that thing.</p>
+
+<p class="justify">A year or so ago, not really sure about the timeframe, my mind is a bit foggy, I was raped. Well, people told me it was rape, I would describe it myself as an 'extremely unwanted but not invasive act with sexually degrading intent'. For me, at least, rape has the connotation that it is a penetrative act, which this was not (committed by a non-penis-owner without the aid of objects like dildos).</p>
+
+<p class="justify">I've always been a bit on the submissive side. People told me that I used to 'simp' a lot, which stems mostly from the fact that I (cis male) see the woman as superior in a heterosexual relationship. Call it doubling down on female empowerment, call it insecurity about my worth in a relationship (projected onto the male gender instead of just myself).</p>
+
+<p class="justify">Well anyhoo, my first relationship came around at the age of 16. The first few months were during summer vacation, so we were in love and happy and hanging out and eating ice cream and typical summer love stuff. The fire fades however. I noticed something different between the two of us. She grew increasingly annoyed at me and unsatisfied with affection (partly to do with me being a complete buffoon I think), and was generally shouting at me and even threw some plates and shit at me once.</p>
+
+<p class="justify">Originally I didn't actually want to have my first sexual experience. Like ever. I've always kind of felt ashamed of my dick, thought it was this ugly junk of meat that could only be used for taking a piss and committing 'obscene acts' (as my mother used to call them). I figured however that the only way to keep my girlfriend satisfied was to try this once. Maybe she would say she loved me then. Maybe she would smile at me then.</p>
+
+<p class="justify">And so it is, that ash seeketh embers. The flame of newborn love that had already died out had to be rekindled once again. I decided to just ask her in the dumbest fashion ever: "do you want to perform sexual acts with me?" She laughed at my, took off her panties while her skirt was still on and forcefully grabbed my head and shoved it into her vagina. She told me to make her scream. That is when everything finally clicked. I existed (at least in a sexual sense) to serve. My only purpose in a relationship was to serve as a fucktoy. I don't know if I particularly enjoyed it, but it is the only form of sex I know.</p>
+
+<div id="vertical-line"></div>
+<p class="justify">Fast forward a few weeks and were going at it again. Except this time, all of a sudden, she slapped me. Like hard, not the kind of cutesy joking slap, or the sexy butt slap, but like a genuine whooping with malicious intent behind it. A slap that was meant to hurt. She grabbed a pillow and held it forcefully to my head. I think I passed out, because I remembered seeing myself, all alone, in a void of nothing. No friends, no family. Only her, towering above me.</p>
+
+<p class="justify">I woke up, and she sat on my chest, painfully squishing my dick. It hurt like a lot and felt uncomfortable. She didn't listen, and instead sat her pussy on my face, denying me breath. She told me I was only allowed to breathe whenever I satisfied her. She told me I was nothing. No one. That I had no value outside of tonguefucking her. The words hurt perhaps even more than the slapes and the dick squishing. As I was there, forcefully doing what I was made to do, my thoughts went to my life. I really was nothing. No one. After the act was done (she came), she beat me up. Like, nearly made me lose consciousness. I could have fought back, but I dont know if I could. Dumb sentence, I know, but I had the physical strength, just not the intent to hurt. I couldn't hurt her, because that is wrong. Like a metaphysical sin I would be committing, a sin beyond life and death. After I recovered from the beating, and she had left the room, I saw a pair of scissors. Traitorous thoughts crossed my mind, but I decided not to follow up with them. I went home crying.</p>
+
+<p class="justify">We dated for more or less three weeks afterwards. Everytime we met, I would endure the same thing. We broke up because I wasn't useful anymore to her.</p>
+
+<p class="justify">As of now, I want something like this to happen to me again. I already feel like an epitome of nothingness, so an event like this would at least fill me with a fleeting sense of purpose. But it would push me over the brink and maybe cause me to hurt myself.</p>
+
+
+
+<div id="vertical-line"></div>
+<h1><b><u>third (theirs)</u></b></h1>
+<p class="justify">Hello, I'm not entirely sure how to approach this as the submission seems to be freeform, but here goes:
+for the purposes of the alphabet mafia (affectionate), I identify as a cisgender bisexual male.</p>
+
+<p class="justify">I grew up in a casually homophobic community, where queer people weren't directly targeted, but the word 'gay' was thrown around as an insult or a synonym for a very feminine man (which was considered derogatory).</p>
+
+<p class="justify">In my teen years, I thought I was straight because I didn't really have crushes on any of my male friends or celebrities. I did however, jokingly (at the time) would say that I'm sexually into some fictional male characters - Oberynn Martell (played by Pedro Pascal) from Game of Thrones or General Armstrong from Full Metal Alchemist come to mind.</p>
+
+<p class="justify">Exposure to the Internet during early 2000s and being a teen during early 2010s helped me overcome my homophobia and other negative preconceptions I had about sexuality, mostly by just seeing some representation among content creators I like, etc. During this time, I started asking myself what would happen if I told people I liked men in addition to women and always found the thought scary yet alluring.Surrounded by a good social circle, I started expressing myself through my looks, most notably using nail polish. I never really doubted my identity as a male, but I still felt like I want to express myself against the gender norms around me. After a breakup in 2021, I let myself explore and experiment more and I came to the conclusion that I am bisexual. Straight guys don't really sext with other guys, right? I came out to my friends, even though I feel like I can't come out to my parents. However, saying it out loud really helped me feel comfortable and 'at place' even if I don't have any physical experience with other guys.
+
+<p class="justify">Right now I am dating a girl who is also bisexual and having that connection really makes me feel valid. I don't plan on having sex with guys as we're in a commited relationship, however the thought of having group sex with another couple or even just one person is arousing.</p>
+
+<p class="justify">I don't really know what to add, sorry if my writing style is too formal or boring. Curious about the results.</p>
+
+
+<div id="vertical-line"></div>
+<h1><b><u>fourth (theirs)</u></b></h1>
+
+<l>Lies lies lies</l><br>
+<l>How is sex simple</l><br>
+<l>How is it an instinct</l><br>
+<l>What is wrong with nature</l><br>
+<l>You</l><br>
+<l>You complain about food being just calories, pleasure, comfort, aesthetic, class, festivity</l><br>
+<l>Instead of life, energy, fuel</l><br>
+<l>Well I</l><br>
+<l>I don't complain, because I can't even speak</l><br>
+<l>Of sexuality</l><br>
+<l>And its many gates of shame</l><br>
+<l>Start with the basics:</l><br>
+<l>Do my eyes roll right through a kiss</l><br>
+<l>Is my waist embraceable</l><br>
+<l>Is my pussy l'éternel feminin?</l><br>
+<l>Do I smell like a spring meadow</l><br>
+<l>Is there a problem with my mistakes poking through my skin?</l><br>
+<l>Oh, and what is exactly is "pubic hair short enough that it doesn't get in your eyes"</l><br>
+<l>Does that count as blinding you in love?</l><br>
+<l>And don't even ask me about behaviour</l><br>
+<l>(Is vulnerability desire if it's more than pearls and soft sins?):</l><br>
+<l>Is that an acceptable sound?</l><br>
+<l>Or maybe i show too much joy, that would be rather selfish, pardon me</l><br>
+<l>I really hope i'm ladylike and elegant</l><br>
+<l>But still fucking like and elephant</l><br>
+<l>But on the verge of that</l><br>
+Am i not too submissive?</l><br>
+Will you call me "that chick" outside?</l><br>
+Will i be another broken machine? Just a human with a little something missing, something you will endow me with, i m sure</l><br>
+<l>Show them champ</l><br>
+<l>Oh how lucky am i, to live in this day and age, where i may but i cannot</l><br>
+<l>At the end of the day, I won't show you anything</l><br>
+<l>Cause in my pleasure book, there s nothing about being perceived</l><br>
+
+
+<div id="vertical-line"></div>
+<h1><u><b>fifth (theirs)</b></u></h1>
+<p>I love bones, not like in the museum<br>
+Or the cemetery morgue<br>
+I like them well dressed, active too<br>
+I like them how they sit in you<br>
+
+I say i always need, in my hands, something to do<br>
+Tweaking my hair, sucking on a finger or two<br>
+I think i know what they replace in truth<br>
+Otherwise, you d see me walking on my contours<br>
+Elbows, jawline, knuckles, brows<br>
+(Or what they call them)<br>
+There s always a rough edge to sooth<br>
+
+But let s talk about you<br>
+There s even more to your anatomy<br>
+Can i say<br>
+Years before i met you, i wanted to feel the sprinkles of your spine<br>
+How it flows and how it hurts<br>
+But i love ribs too<br>
+Nothing more thrilling than counting them<br>
+Feeling them so close, thinking they could break<br>
+But in the end they demonstrate they protect a little ball of you<br>
+And that, too, i want to get to know<br>
+To hear your heart and learn its favourite dances<br>
+To listen closely, with tender care, to each of your muscles, your organs, to your bone marrow<br>
+I want to know what they have done, how many times the saved my dear<br>
+I want to know the decomposition that s in them<br>
+Let them whisper their disease and their death to me<br>
+Our little secret, you ll find out when the time comes<br>
+Let me feel the impulse before it gets to your brain<br>
+And how the muscles toss and turn when I kiss your collars<br>
+
+I am not a freak right? Isn't this what they mean when they say "the truth is inside"? I go well beyond the surface. Send me the music of the life and death within you</p>
+</div>
+<div class="column">
+<h1 class="right-align"><u><b>first (mine)</b></u></h1>
+<p class="justify">the internet is fucked. thirst traps, porn and everything in between, destroying my sex, my romance. everything i have is dominated and subjugated. there is a me that is ~perfect, but the offline me cannot be it. there is a gaping hole that has been waiting for a while to be filled (not like that, you perverts- this is a serious confession), but i have not found someone that can fill it yet. no matter how hard they try, I Always Want More. egotistical, but sincere.</p>
+<p class="justify">but there are other gaping holes that not even i can fill by myself. i am not the master of my confidence: i hate the way i look, but i am told i shouldn’t. i won’t listen- they don’t know shit about me. i know what i need to do but i can’t do it. i’m suffocating in regret, but i think i kinda like it (P.S. erotic asphyxiation is dangerous). not really, cause i used to be better before. not *better*, but at least different. happiness evaded me in the past as well, but now it seems even farther away.</p>
+<p class="justify">a message repeated like a broken record everywhere (i am but a part of a broken society, and i must follow its miserable rules): i’m scared i’ll never be happy. i’m scared my body and friends and lovers and wants are already so deeply fucked they’ll never be new again.</p>
+<p class="justify">i could blame it on college, but it’s still just Me. so weak that an apple a day will keep me away (! it’s not even a question anymore)</p>
+
+<p class="justify">i don’t even need that apple cause i can keep myself away from everything. yes, also help. i am but a lonely piece of meat among other more interesting pieces. they’re hanging on to one other- functioning organism, like all things should be. i was cut away. the butcher left and i can’t even try throwing myself back, in the comfort that i should fit in.</p>
+
+<p class="justify">but i’m jealous of the other meats. they’re still together. they almost look like me. or no, <i>i</i> almost look like them. just not as good maybe. i used to be, but now i’m rotten and i can’t help turning greener and greener every day.</p>
+
+<p class="justify">is this not what you wanted for me? it is not, but i do not care anymore. selfishness suits me for once.</p>
+
+<p class="justify">but i am still surrounded by perfection, so i can’t even be selfish in peace anymore. there’s one Him that i envy (even though i got f*cking scammed). he is how the world wants him to be, smart and Extroverted and full of life which i do not have but i’d like to steal. maybe that will be my revenge, sucking some of his life force and taking it for myself. i need it more. i want it more because i want it all, and he took everything already. and i see that on the Big Bad Social Media that makes me feel tiny and weak and all the ways i do not want to feel. it terrifies me and makes me freeze. i cannot move because it’s trying to crush my ribs with its perfect pictures and perfect people.</p>
+
+<p class="justify">i don’t want perfect though, i want the adrenaline. i want the high without the low, i want the danger and the precarity. i dont <i>want</i> it truly, but i aspire to it. what does it matter if desire is fake or not- it still fucks you up. so still, i say: i wish i could have what people ive met had.</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<h1 class="right-align"><u><b>second (still theirs)</b></u></h1>
+<p class="right-align">this is not something that i, as the creator and "god" of this project, can tell in my own words. this is not a story to be retold or changed, but to be listened to. i have no rights to it. all i can do is show it here and let it speak for itself. it is not mine to steal, even if i asked for it. i can only give it a safe space (to flourish or maybe rot and die)</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<h1 class="right-align"><u><b>third (mine)</b></u></h1>
+<p class="justify">this might be an error. but it doesn’t matter how <i>you</i> see it, it matters that i made it and that you will see it however you want (in the end i dont rlly care, sorry xo). if you want this to be technical, if you can’t understand anything else but simple labels, here goes: im a cisgender bisexual male. maybe thats easy for you to understand (i know it is, don’t confirm it)</p>
+
+<p class="justify">i didn’t die or suffer too much bc of it, but it wasn’t good for me to be like that either. gay is an insult in my offline space (so between a death sentence and a happy life- an indecisive home that doesn’t quite hate me but wants to)</p>
+
+<p class="justify">i did make the mistake of thinking i was straight just cause i wasn’t thirsting over any men. didn’t fall in love with any straight friends either (lucky me). but i was kinda funny and so i made some kinda funny jokes about some fictional characters that were Hot<sup>&trade;</sup>.</p>
+
+<p class="justify">the internet ended up saving me. content creators, fandoms, representation and all that- any internet rookie knows the drill, and if you don’t, i don’t think i can help you at this point. but yeah, being gay didn’t seem that bad. it scared the shit out of me, yes, but what’s life without danger and stupid decisions</p>
+
+<p class="justify">and like any other tentative alphabet mafia member, i started with the holy grail that is nail polish (no, Harry Styles doesn’t own it. he’s like two generations too late). fuck the gender norms and all that, but not too hard. i knew who i was but it was still fun to rebel. broke my heart and then realised i <i>did</i> like guys. straight guys don't really sext with other guys, right? my friends know, my family doesnt, story as old as time. i’m better though, and i’m secure in who i am (i know you’re jealous of me).</p>
+
+<p class="justify">it’s still not over yet. with sexuality it never is. sure, i feel validated and its nice and i have a loving girlfriend. but maybe i want more. humans are greedy but its alright, that’s how it’s meant to be. threesomes and orgies, anyone? i know you want to~</p>
+
+
+<br><br>
+<h1 class="right-align"><u><b>fourth (not really mine)</b></u></h1>
+<p class="right-align">poetry is the highest form of self expression. not even the fucked up sincerity of the internet can change that, so i certainly will not. please enjoy, because i certainly did.</p>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h1 class="right-align"><u><b>fifth (still not really mine)</b></u></h1>
+<p class="right-align">still beautiful, still perfect, still untouchable. enjoy it with a glass of self-reflection and a newfound passion for bone metaphors. </p>
+</div>
+</div>
+
+</body>
+</html>
